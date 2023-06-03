@@ -13,6 +13,6 @@ First, request your Instagram information that you will use for this script
 7. Set format to JSON (IMPORTANT)
 8. Submit request
 
-Once you receive a confirmation from Meta, donwload the file, unzip the followers_and_following folder
+Once you receive a confirmation from Meta, download the file, unzip the followers_and_following folder.
 Run the program, select the appropriate JSON files, click Analyse.
 This will generate two files in the directory you ran the .exe from - one showing you people that don't follow you back, one showing people you don't follow back.
