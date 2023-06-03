@@ -3,7 +3,7 @@ Crude IG Unfollow Checker
 
 Instructions
 
-First, request your Instagram information that you will use for this script
+First, request your Instagram information that you will use for this script:
 1. Navigate to [https://privacycenter.instagram.com/](https://privacycenter.instagram.com/guide/dyi/)
 2. Select 'Download your information'
 3. Select 'Request a Download'.
